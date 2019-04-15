@@ -1,6 +1,5 @@
 package hackerrank.problemsolving;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 /**
